@@ -1,0 +1,25 @@
+.title{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 7px;
+	background-color: tomato;
+	border-radius: 10px;
+}
+
+
+.form-box{
+	width: 300px;
+	margin: 59px auto;
+	height: 400px;
+	background: white;
+	border-radius: 7px;
+	padding: 20px 30px;
+	text-align: center;
+}
+from imput {
+	display: block;
+}
+
+
+
